@@ -1,7 +1,7 @@
 <br />
 <p align="center">
-  <a href="https://github.com/naderabdalghani/hippohippogo-search-engine">
-    <img src="src/main/resources/static/assets/hippohippogo_logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/nyzk/hippohippogo-search-engine">
+    <img src="resources/static/assets/hippohippogo_logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">HippoHippoGo</h3>
@@ -131,16 +131,10 @@ Popularity is a measure for the importance of any web page regardless of the req
 * [Icomoon](https://icomoon.io/)
 * [Linearicons](https://linearicons.com/free)
 
-[landing-page]: src/main/resources/static/assets/landing_page.png
-[autocomplete]: src/main/resources/static/assets/autocomplete.gif
-[voice-search]: src/main/resources/static/assets/voice_search.gif
-[web-search]: src/main/resources/static/assets/web_search.gif
-[image-search]: src/main/resources/static/assets/image_search.png
-[trends]: src/main/resources/static/assets/trends.gif
+[landing-page]: resources/static/assets/landing_page.png
+[autocomplete]: resources/static/assets/autocomplete.gif
+[voice-search]: resources/static/assets/voice_search.gif
+[web-search]: resources/static/assets/web_search.gif
+[image-search]: resources/static/assets/image_search.png
+[trends]: resources/static/assets/trends.gif
 
-## Contributors
-
-* [Muhammad Khier](https://github.com/MouhammadKhier)
-* [Mahmoud Mohamad](https://github.com/mmmacmp)
-* [Muhanad Atef](https://github.com/MuhanadAtef)
-* [Nader AbdAlGhani](https://github.com/naderabdalghani)
